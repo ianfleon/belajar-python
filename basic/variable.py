@@ -1,18 +1,7 @@
-# String
-nama = "Ianfleon"
+namaSiswa = "Budi"
+umur = 24
 
-# Number
-angkatan = 2016
+saldo_rekening = 5500
+namaBank = "BCA"
 
-# Boolean
-lajang = False
-
-print(f"Nama: {nama}")
-print(angkatan)
-print(lajang)
-
-# Python tidak mengenal Konstanta, biasanya dibuat-buat spt. mempunyai dengan cara seperti penamaan konstanta umumnya
-
-BASE_URL = 'https://ianfleon.my.id'
-print(BASE_URL)
-
+masihBujang = True
